@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 import xml.etree.ElementTree as ET
 
+#comment
 # Make the browser object
 browser = mechanize.Browser()
 browser.set_handle_robots(False)
